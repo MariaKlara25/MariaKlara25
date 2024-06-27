@@ -2,7 +2,7 @@
 
 Maria Klara da Cruz Lisboa
 
-Estou estudando na [Alura] (www.alura.com.br)
+Estou estudando na [Alura](www.alura.com.br)
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
